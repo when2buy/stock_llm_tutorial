@@ -6,6 +6,9 @@ This tutorial demonstrates how to build and use stock trading agents using Pytho
 
 [t0.py](https://www.xiaohongshu.com/explore/67821f3f000000001703a3bb)
 
+## Online demo
+https://stock-master.when2buy.ai/
+
 ## Files Overview
 
 - `t0.py` - Introduction to basic stock market concepts and data handling
