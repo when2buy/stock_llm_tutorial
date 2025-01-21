@@ -22,6 +22,7 @@ from plotly.subplots import make_subplots
 conf = {
     "openai": (
         "https://api.openai.com/v1",
+        # Replace with your own API key
         "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",
         "chatgpt-4o-latest"
     )
